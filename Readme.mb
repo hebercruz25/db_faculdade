@@ -1,0 +1,7 @@
+comandos básicos git
+git init     #inicia o git
+git status     #verifica se tem algum arquivo disponivel para ser publicado.
+git add nome_arquivo     #prepara o arquivo para publicação.
+git commit -m "comentário da publicacao"     # publica o arquivo preparado.
+git config user.name "Heber"
+git config user.email "hebercruz84@gmail.com"
